@@ -1,5 +1,3 @@
-Creating a README file for a 3D reconstruction project involves outlining the purpose, structure, and usage instructions of the project to assist users and contributors. Below is a template for such a README file, tailored for a typical 3D reconstruction project. You can adjust it according to the specifics of your project:
-
 # 3D Reconstruction Project
 
 ## Description
